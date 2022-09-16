@@ -1,6 +1,6 @@
 # Project 1 Response
 
-The first project of the Data Science course focused on reading in and manipulating data sets, writing generic functions to reproduce workflow, and communicating the thought process behind the code.
+This first project focused on reading in and manipulating data sets, writing generic functions to reproduce workflow, and communicating the thought process behind the code.
 
 Some of the key takeaways were learning how to write function definitions, becoming familiarized with the `dplyr` package, learning about the interaction between classes and functions, and practicing assembling smaller code chunks into a cohesive project.  
 
