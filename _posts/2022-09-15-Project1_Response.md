@@ -4,6 +4,6 @@ The first project of the Data Science course focused on reading in and manipulat
 
 Some of the key takeaways were learning how to write function definitions, becoming familiarized with the `dplyr` package, learning about the interaction between classes and functions, and practicing assembling smaller code chunks into a cohesive project.  
 
-If redoing the project, I would experiment more often. I tended to fixate on finding optimal solutions quickly, but with more experimentation, maybe I would pick up on some additional use cases for various functions. Overall, it was a great learning experience.
+If I were to redo the project, I would experiment more often. I tended to fixate on finding optimal solutions quickly, but with more experimentation, maybe I would pick up on some additional use cases for various functions. Overall, it was a great learning experience.
 
 You can view the project here: <https://lrperki2.github.io/Project1_LPerkins.html>
