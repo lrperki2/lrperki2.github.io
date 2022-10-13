@@ -2,7 +2,7 @@
 
 ## Summary
 
-The second project focused on learning how to interact with an API and served as an introduction into collaboration on data science projects. We built a function that contacted an API endpoint with a url, then converted the information into a usable format. We integrated modifications on the endpoint that could be used as parameters to subset the data by different variables directly from the API. We then analyzed the data numerically and graphically using summaries, tables, and plots. For the collaboration component, we used git directly through R to pull down files, stage commits, resolve merge conflicts, and push updated files to a shared repo on github.
+The second project focused on learning how to interact with an API and served as an introduction into collaboration on data science projects. We built a function that contacted an API endpoint with a url, then converted the information into a usable format. We integrated modifications on the endpoint that could be used as parameters to subset the data by different variables directly from the API. We then analyzed the data numerically and graphically using summaries, tables, and plots. For the collaboration component, we used git directly through R to pull down files, stage commits, resolve merge conflicts, and push updated files to a shared repo on github. Due to considerations of limiting API bandwidth and avoiding an overly complex process for our data collection, it was difficult to draw any strong conclusions as samples weren't technically truly random. However, in general, it seemed like microbreweries were the most popular brewery type.
 
 ## Reflection
 
